@@ -9,9 +9,7 @@
 
 Sobre mim
 
-Sou apaixonado por tudo que envolve mente, máquina e mistério. Atualmente atuo como analista de TI, mas sigo firme nos estudos de áreas emergentes como Inteligência Artificial, Segurança da Informação e Computação Quântica.
-
-No meu tempo livre, crio conteúdo sobre expansão da consciência e reprogramação mental no TikTok — porque acredito que a tecnologia começa dentro da mente.
+Atualmente, trabalho como analista de TI, com foco no aprendizado contínuo em áreas como Inteligência Artificial, Cibersegurança e Computação Quântica. No meu tempo livre, também produzo conteúdo sobre expansão da consciência e reprogramação mental, acreditando que o autoconhecimento e a tecnologia caminham lado a lado.
 
 ---
 
@@ -27,10 +25,10 @@ Tecnologias & Ferramentas
 
 Certificados Recentes
 
-- `Cisco` - Introdução à Cibersegurança ✔️
-- `Google` - Fundamentos de IA ✔️
-- `IBM` - Computação Quântica (em progresso) ⚛️
-- `Bradesco` - Segurança da Informação ✔️
+- `Cisco` - Introdução à Cibersegurança 
+- `Google` - Fundamentos de IA
+- `IBM` - Computação Quântica (em progresso) 
+- `Bradesco` - Segurança da Informação 
 
 ---
 
